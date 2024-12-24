@@ -99,7 +99,7 @@ function openDoor(div, day) {
                 div.style.backgroundColor = 'rgb(204, 102, 255)';
                 break;
             case 24:
-                div.innerHTML = 'Wie nennt man einen dünnen Weihnachtsmann? Nikolauch.';
+                div.innerHTML = <a href="24.html">Open Present</a>;
                 div.style.backgroundColor = 'rgb(255, 255, 153)';
                 break;
             default:
